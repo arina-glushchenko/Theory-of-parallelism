@@ -1,2 +1,2 @@
-Ветка make - lab1 make
-Ветка cmake - lab1 cmake
+Branch make - lab1 make
+Branch cmake - lab1 cmake
