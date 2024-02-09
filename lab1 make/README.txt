@@ -1,7 +1,7 @@
-Для сборки make: make double - выбор типа double
-		 make float - выбор типа float
-Для сборки cmake: cmake -DBUILD_TYPE=double CMakeLists.txt - выбор типа double
-		  cmake -DBUILD_TYPE=float CMakeLists.txt - выбор типа float
+make build: make double - to choose double
+	    make float - to choose float
+cmake build: cmake -DBUILD_TYPE=double CMakeLists.txt - to choose double
+	     cmake -DBUILD_TYPE=float CMakeLists.txt - to choose float
 
-Значение Double: -1.02753e-09
-Значение Float:  0.144355
+Value Double: -1.02753e-09
+Value Float:  0.144355
